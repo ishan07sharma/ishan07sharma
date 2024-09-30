@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Flutter,DSA,CyberSecurity,AI<br>💬 Ask me about NextJs,MERN stack<br>
+🌱 I’m currently learning Flutter,DSA <br>💬 Ask me about NextJs,MERN stack<br>
 
 
 ## 🌐 Socials:
